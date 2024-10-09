@@ -1,0 +1,14 @@
+# Target labels
+ glm-populate
+# Source files and their labels
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule
+C:/test-project/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update.rule

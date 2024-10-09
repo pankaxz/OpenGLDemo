@@ -1,0 +1,9 @@
+# ninja log v6
+9	976	7493853686040304	CMakeFiles/test_project.dir/src/glad.c.obj	fd6c6555a4077166
+5	180	7493855184934382	CMakeFiles/test_project.dir/rect.cpp.obj	247a5540bc10eed9
+24	701	7494671997173123	CMakeFiles/test_project.dir/Rectangle.cpp.obj	91d7a91a2fb36732
+14	97	7493848549866455	test_project.exe	db0faf50252b5c46
+2	269	7496390259512722	build.ninja	5dccaeac7aeafc27
+4	90	7493856302805956	CMakeFiles/test_project.dir/windows.c.obj	f8f83d5ace45e161
+21	366	7494671997143242	CMakeFiles/test_project.dir/shader.cpp.obj	1bb744dacdd82e18
+11	238	7494671997043576	CMakeFiles/test_project.dir/triangle.cpp.obj	c3bc65c823f63b
